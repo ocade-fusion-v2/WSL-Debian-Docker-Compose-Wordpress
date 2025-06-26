@@ -80,6 +80,12 @@ newgrp docker
 
 Redémarrez le terminal si nécessaire.
 
+* Supprimer pnpm si pause problème.
+```
+npm uninstall -g pnpm
+which pnpm
+```
+
 ### 5. Tester l'installation
 
 ```bash
