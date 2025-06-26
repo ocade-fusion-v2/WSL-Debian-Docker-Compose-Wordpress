@@ -38,6 +38,8 @@ Cela installe WSL2 avec Ubuntu par défaut.
 wsl --install -d Debian
 ```
 
+* Ouvrir le terminal et switcher avec la flèche du temrinal sur **debian**.
+
 Configurez le compte utilisateur UNIX (nom + mot de passe).
 
 ---
